@@ -44,21 +44,18 @@ ${data.link}
 ![alt-text](${data.screenshot})
 ## Table of Contents
 * [Features](#features)
-* [Languages & Dependencies](#languagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Dependencies](#dependencies)
+* [Technologies](Technologies)
 * [Contributors](#contributors)
-* [Testing](#testing)
 * [Questions](#questions)
 ## Features
 ${data.features}
-## Languages & Dependencies
+## Dependencies
 ${data.require}
-## How to Use This Application:
+## Technologies
 ${data.usage}
 ## Contributors
 ${data.contributors}
-## Testing
-${data.test}
 ## Questions
 Please send your questions [here](mailto:${data.email}?subject=[GitHub]%20Dev%20Connect) or visit [github/${data.creator}](https://github.com/${data.creator}).
 `;

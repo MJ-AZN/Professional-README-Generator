@@ -1,27 +1,19 @@
 # Professional README Generator 
 undefined
 ## Description
-A simple way to generate a README>md file without the tedious code
+Create a simple read me without the tedious code
 ## Deployed Application URL
 undefined
-## Screenshot
-![alt-text](undefined)
 ## Table of Contents
-* [Features](#features)
-* [Languages & Dependencies](#languagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Dependencies](#dependencies)
+* [Technologies](Technologies)
 * [Contributors](#contributors)
-* [Testing](#testing)
 * [Questions](#questions)
-## Features
-undefined
-## Languages & Dependencies
+## Dependencies
 Inquirer 6.5.2
-## How to Use This Application:
-Markdown, JS, NODE, JSON
+## Technologies
+Markdown, JS, node, JSON
 ## Contributors
-None, solo project
-## Testing
-undefined
+none, solo project
 ## Questions
 Please send your questions [here](mailto:michaeljibarra63@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/undefined](https://github.com/undefined).
